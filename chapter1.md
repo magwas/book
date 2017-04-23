@@ -2,7 +2,7 @@
 
 ## Struktúra
 
-Az alapstruktúra egy fa, amely ideális \(a [Dunbar szám](https://en.wikipedia.org/wiki/Dunbar%27s_number)hoz közeli\) méretű csoportokat tartalmaz mint leveleket, és a csomópontjainak \(a "metacsoport"oknak\) a fokszáma is az ideális körüli.
+Az alapstruktúra egy fa, amely ideális \(a [Dunbar szám](https://en.wikipedia.org/wiki/Dunbar's_number)hoz közeli\) méretű csoportokat tartalmaz mint leveleket, és a csomópontjainak \(a "metacsoport"oknak\) a fokszáma is az ideális körüli.
 
 A struktúra csomópontjai opcionálisan lehetnek civil szervezetek, helyi, országos vagy nemzetközi kormányzatok. Az ilyen csomópontokhoz lehet erőforrásokat rendelni \(pl. város, ország\), és a hozzájuk tartozó alfa tagságát korlátozni tagság/állampolgárság/egyebek alapján. Máskülönben a tagok és a csoportok szabadon mozognak a struktúrában bizonyos szabályok mentén, ésa struktúra reagál ezekre a mozgásokra, hogy biztosítsa azokat a tulajdonságokat, amelyek ezáltal a megfelelő kommunikációt és döntéshozatali sebességet biztosítják.
 
@@ -43,6 +43,76 @@ A fenti rész a formális struktúrát írta le. A formális struktúrában mind
 Az informális struktúra csomópontjai nem vesznek részt aformális döntéshozatali folyamatban \(de a tagok mint egyének kezdeményezhetnek döntéseket a formális csoportjaikban, az itt megjelenő igények alapján\).
 
 Az formális struktúra csomópontjai tulajdonolhatnak csomópontokat az informális struktúrában. Ez lehetővé teszi, hogy nem-demokratikus szervezeteket \(intézményeket, cégeket\) építsenek ki a demokratikus szervezetek támogatására, miközben rendelkezésükre áll az eszközök összessége, amennyiben arra szükség van.
+
+## Kulcsszereplők és hivatalok
+
+A fő célok a kulcsszereplők és hivatalok szerepének megtervezésekora következőek voltak:
+
+* A hatalom koncentrációjának elkerülése
+* A kulcspozíciókat olyan egyének töltsék be, akiknél magas a valószínűsége, hogy birtokolják a szükséges szaktudást és képességeket
+* Az egyének ösztönzői elsősorban a hivatal missziójának irányába hatnak
+
+Ezért egy olyan rendszert javaslunk, amelyben:
+
+* A hatalmi ágak elválasztásra kerülnek. Javasoljuk legalább a törvényhozó, végrehajtó, igazságszolgáltatás és kontroll hatalmi ágak használatát. Ez a kalsszikus _trias politica_ ágaihoz a kontroll hatalmi ágat adja hozzá, mert a procedurális felelősségre vonhatóság \(procedural accountability\) a hatékony működés biztosításának módja a teljes struktúrában.
+* Míg a procedurális felelősségre vonhatóság a folyamatok hatékonyságát biztosítja, a stratégiai összehangoltságot a hatalmi ágak indirekt kontrollja biztosítja, a jogszabályalkotáson és a legfelső vezető közvetlen megválasztásán keresztül. A szervezeti integritást a legfelső vezető minimum hivatali ideje és az a tény védi, hogy a törvényhozó hatalmi ág csak szabályokat és célokat \(a "mit", és nem a "hogyant"\) szabhat más hatalmi ágak számára, és maga is kontrollálva van az igazságszolgáltatás által.
+* A kulcsszereplők ösztönzői pénzügyi úton kerülnek kialakításra \(lásd Pénzügyek\), és egy olyan életpályamodellen keresztül, amelyben az alacsonyabb szinteken szerzett tapasztalat szükséges a magasabb szintek eléréséhez. Ez egyben stabilitást is hoz a modellbe.
+
+### Képviselet \(törvényhozó hatalmi ág\)
+
+A képviselők olyan választott hivatalnokok, amelyek a jogszabályalkotási folyamat minőségéért felelősek. A szerepük és felelősségeik a jogszabályalkotási folyamatnál kerülnek kifejtésre.
+
+A képviselők száma egy csomópontban elegendően kevés ahhoz, hogy a szavazólapok ne legyenek túlzottan hosszúak, de elegendően sok ahhoz, hogy a különböző nézeteket képesek legyenek képviselni, mivel [a véleményeltérés fontos hajtóereje a jó döntéseknek](https://www.researchgate.net/profile/Stefan_Schulz-Hardt/publication/6653857_Group_Decision_Making_in_Hidden_Profile_Situations_Dissent_as_a_Facilitator_for_Decision_Quality/links/02e7e528b0b4141ce0000000/Group-Decision-Making-in-Hidden-Profile-Situations-Dissent-as-a-Facilitator-for-Decision-Quality.pdf) \(pl. 5\).
+
+A döntéshozatali folyamat tulajdonsága, hogy minden javaslatnak van egy "ügyképviselő"je. Az ügyképviselő az az egyén, aki egy adott javaslatot kezdeményezett. Az ügyképviselőnek az adott ögyben futó döntéshozatali folyamatra vonatkozóan ugyanazok a jogai vannak, mint a választott képviselőnek.
+
+A következő személyek választhatóak képviselőként:
+
+* egy szinttel lentebbi csomópont v'lasztott képviselői
+* olyan személyek, akik az adott csomópontban már voltak választott- vagy ügyképviselők
+
+### További hatalmi ágak
+
+A szervezeti csomópontoknak az összes többi hatalmi ághoz létezik egy megválasztott hivatalnokuk. Ez legalább a végrehajtó, igazságszolgáltató és kontroll hatalmi ágakat jelenti.
+
+Minden típusú hivatalhoz tartozik egy minimum és maximum hivatali idő. Minden hivatalhoz tartozik egy minimális képzettség. Ezt a képzettséget úgy kell megválasztani, hogy valószínűvé tegye, hog y a jelöltnek vannak a hivatalhoz szükséges képességei és tapasztalatai, de lehetővé teszi, hogy sikerüljön megtalálni több olyan jelöltet, amely a tagok szerint megfelelő a hivatalra. Például csak bírók lehetnek az igazságszolgáltató hatalmi ág választott vezetői.
+
+A magasabb csomópontokon követelmény lehet az alacsonyabb csomópontokon való gyakorlat.
+
+### Választások
+
+A választások a szokásos döntéshozatali folyamat keretein belülkezdeményezhetőek a minim hivatali idő letelte után. A maximum hivatali idő leteltekor a folyamat automatikusan megindul.
+
+### Értékek és hosszú távú stratégia
+
+Ennek az írásnak néhány szerzője amellett érvel, hogy szükség van egy hatalmi ágra, amely az értékekért és a hosszú távú stratégiai összehangoltságért felelős, amelynek legfelső vezetője az egységet, az értékeket és a szervezet tradícióit reprezentálja, hosszú minimális hivatali idővel és maximális hivatali idő nélkül, akár örökölhető hivatallal. Ennek a hatalmi ágnak leginkább konzultációs és reprezentatív jogosítványokkal és nagyon limitált, túlnyomóan felülírható vétóerővel kell rendelkeznie.
+
+Ennek a hatalmi ágnak az ötlete a modern európai királyságok, a Dalai Láma és a gyenge prezidenciális rendszerek történelmi példáira épít.
+
+
+
+## Jogszabályalkotási folyamat
+
+### Jogszabályok
+
+Minden csomópontnak saját szabályai vannak, a szokásos hierarchiában: A magasabb szintű csomópontok jogszabályai kötelező érvénnyel bírnak az alacsonyabb szinteken hozott döntésekkel és szabályokkal szemben.
+
+Mivel a jogszabályalkotás kiterjed a döntéshozatali folyamatra és a struktúrára magára is, mindent meg lehet változtatni, ha arra szükség van. Hogy biztossá tegyük azt, hogy az alapvető értékek nem sérülnek, és hogy a hibás döntésekből fel lehessen épülni, a legfelső csomópontban kétmegváltoztathatatlan szabály van:
+
+1. Az Emberi jogok Egyetemes Nyilatkozata minden más szabályt felülír
+2. A döntéshozatali folyamatra és a struktúrára vonatkozó szabályok bármikor felülírhatóak egy "Debian Standard Resolution" folyamatban, ahol a szponzorok minimális száma sqrt\(n\) és a vitaperiódus ceiling\(ln\(n\)\) hét, ahol n a csomópont alatti egyének száma.
+
+### Döntések
+
+Az egyének jogosultak közvetlenül döntéseket kezdeményezni és szavazni jogszabályalkotási kérdésekben, amely magában foglalja a célok és a költségvetés meghatározását, és a választást a megfelelő képzettségű jelöltek közül a különböző hatalmi ágak vezető pozícióiba.
+
+A döntéseket a fa csomópontjaiban lehet kezdeményezni, és azok "felúsznak" amíg el nem érik azt a csomópontot, amelyben relevánsak. Bárki kezdeményezhet döntést a saját csoportjában, és a választott képviselők abban a metacsoportban, amelybe megválasztották őket.
+
+A döntéshozatali folyamat építőköve a "[Debian Standard Resolution Procedure](https://www.debian.org/vote/howto_follow)"-ra épül, megfelelő paraméterekkel. Ez egy bevált folyamat, amely magában foglalja a formális döntéselőkészítést, és úgy lett megtervezve, hogy mind a releváns elméleti eredményeket, mind a nyílt forrású mozgalom több évtizedes tapasztalatait figyelembe veszi.
+
+A döntéselőkészítés abból áll, hogy összegyűjt egy menüt a döntés lehetséges alternatíváiból. Egy döntési alternatíva akkor lesz része a menünek, ha megfelel néhány kritériumnak \(megfelelő számú támogató egy csoportban, ametacsoportokban pedig a képesség, hogy felússzon addig\). Az alternatívát javasló egyén lesz annak ügyképviselője.
+
+a csoportokban a döntéselőkészítés közvetlenül történik, míg a metacsoportokban a választott- és ügyképviselők folytatják a vitákat, és velük szemben elvárás a 
 
 
 
