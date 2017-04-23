@@ -2,7 +2,7 @@
 
 ## Struktúra
 
-Az alapstruktúra egy fa, amely ideális \(a [Dunbar szám](https://en.wikipedia.org/wiki/Dunbar's_number)hoz közeli\) méretű csoportokat tartalmaz mint leveleket, és a csomópontjainak \(a "metacsoport"oknak\) a fokszáma is az ideális körüli.
+Az alapstruktúra egy fa, amely ideális \(a \[Dunbar szám\]\([https://en.wikipedia.org/wiki/Dunbar's\_number\)hoz](https://en.wikipedia.org/wiki/Dunbar's_number%29hoz) közeli\) méretű csoportokat tartalmaz mint leveleket, és a csomópontjainak \(a "metacsoport"oknak\) a fokszáma is az ideális körüli.
 
 A struktúra csomópontjai opcionálisan lehetnek civil szervezetek, helyi, országos vagy nemzetközi kormányzatok. Az ilyen csomópontokhoz lehet erőforrásokat rendelni \(pl. város, ország\), és a hozzájuk tartozó alfa tagságát korlátozni tagság/állampolgárság/egyebek alapján. Máskülönben a tagok és a csoportok szabadon mozognak a struktúrában bizonyos szabályok mentén, ésa struktúra reagál ezekre a mozgásokra, hogy biztosítsa azokat a tulajdonságokat, amelyek ezáltal a megfelelő kommunikációt és döntéshozatali sebességet biztosítják.
 
@@ -89,8 +89,6 @@ Ennek az írásnak néhány szerzője amellett érvel, hogy szükség van egy ha
 
 Ennek a hatalmi ágnak az ötlete a modern európai királyságok, a Dalai Láma és a gyenge prezidenciális rendszerek történelmi példáira épít.
 
-
-
 ## Jogszabályalkotási folyamat
 
 ### Jogszabályok
@@ -112,7 +110,13 @@ A döntéshozatali folyamat építőköve a "[Debian Standard Resolution Procedu
 
 A döntéselőkészítés abból áll, hogy összegyűjt egy menüt a döntés lehetséges alternatíváiból. Egy döntési alternatíva akkor lesz része a menünek, ha megfelel néhány kritériumnak \(megfelelő számú támogató egy csoportban, ametacsoportokban pedig a képesség, hogy felússzon addig\). Az alternatívát javasló egyén lesz annak ügyképviselője.
 
-a csoportokban a döntéselőkészítés közvetlenül történik, míg a metacsoportokban a választott- és ügyképviselők folytatják a vitákat, és velük szemben elvárás a 
+a csoportokban a döntéselőkészítés közvetlenül történik, míg a metacsoportokban a választott- és ügyképviselők folytatják a vitákat, és velük szemben elvárás a visszajelzések begyűjtése.
+
+A szavazás [Condorcet módszer](https://hu.wikipedia.org/wiki/Condorcet-m%C3%B3dszer)rel történik, egy kitöltő, "a lenti alternatívák nem elfogadhatóak" alternatíva hozzáadásával, annak érdekében, hogy a teljes döntési teret lefedjük, és lehetőséget adjunk az elfogadhatóság  határainak jelzésére.
+
+Amikor egy bizottságra szavazunk, a [CIVS Proporcionális reprezentációs módszer](http://civs.cs.cornell.edu/proportional.html)ét alkalmazzuk a tagok meghatározására. Acsomóponthoz tartozó részfa minden tagja egy szavazattal bír, akkor is, ha több csoportnak tagja. annak érdekében, hogy az egyének meg tudják határozni a saját bevonódási szintjüket, és egyben biztosítsuk a jó döntéseket, a szavazatok likvid demokratikus módon delegálhatóak, de csak választott-  vagy ügyképviselőknek.
+
+### Döntési folyamat
 
 
 
