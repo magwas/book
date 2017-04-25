@@ -21,6 +21,8 @@
       * [Indítványozás](inditvanyozas.md)
       * [Vita](vita.md)
       * [Szavazás](szavazas.md)
+      * [Módosítók, kompromisszumok, rövidítések](modositok-kompromisszumok-roviditesek.md)
+    * [Normakontroll](normakontroll.md)
 
 
 
