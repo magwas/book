@@ -26,6 +26,7 @@
   * [Kommunikáció](kommunikacio.md)
   * [Pénzügyek](penzugyek.md)
   * [Implementációs útvonal](implementacios-utvonal.md)
+    * [Az elindulási probléma](implementacios-utvonal.md)
 
 
 
