@@ -31,4 +31,5 @@
 * [Kezdeti növekedés](kezdeti-novekedes.md)
 * [Helyi ügyek](helyi-ugyek.md)
 * [Helyi önkormányzat](helyi-onkormanyzat.md)
+* [Állami kormányzás](allami-kormanyzas.md)
 
