@@ -24,6 +24,7 @@
       * [Módosítók, kompromisszumok, rövidítések](modositok-kompromisszumok-roviditesek.md)
     * [Normakontroll](normakontroll.md)
   * [Kommunikáció](kommunikacio.md)
+  * [Pénzügyek](penzugyek.md)
 
 
 
