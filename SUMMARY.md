@@ -4,6 +4,17 @@
   * [A probléma](README1.md)
   * [A megoldás](README2.md)
 * [A modell leírása](chapter1.md)
-
-
+  * [Struktúra](struktura.md)
+   * [Csoportok](csoportok.md)
+   * [Csomópontok, metacsoportok, szervezeti csomópontok](csomopontok.md)
+   * [Informális struktúra, végrehajtó szervezetek](informalis.md)
+  * [Kulcsszereplők és hivatalok](kulcsszereplok.md)
+   * [Képviselet \(törvényhozó hatalmi ág\)](kepviselet.md)
+   * [További hatalmi ágak](tovabbiagak.md)
+   * [Választások](valasztasok.md)
+   * [Értékek és hosszú távú stratégia](ertekek.md)
+  * [Jogszabályalkotási folyamat](jogszabalyalkotas.md)
+   * [Jogszabályok](jogszabalyok.md)
+   * [Döntések](dontesek.md)
+   * [Döntési folyamat](dontesifolyamat.md)
 
