@@ -1,7 +1,7 @@
 # Summary
 
-* [Bevezetés](README1.md)
-  * [A probléma](README1.md)
+* [Bevezetés](README.md)
+  * [A probléma](README.md)
   * [A megoldás](README2.md)
 * [A modell leírása](struktura.md)
   * [Struktúra](struktura.md)
