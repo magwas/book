@@ -27,6 +27,7 @@
   * [Pénzügyek](penzugyek.md)
   * [Implementációs útvonal](implementacios-utvonal.md)
     * [Az elindulási probléma](implementacios-utvonal.md)
-
-
+    * [Az útvonal](az-utvonal.md)
+* [Kezdeti növekedés](kezdeti-novekedes.md)
+* [Helyi ügyek](helyi-ugyek.md)
 
