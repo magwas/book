@@ -20,6 +20,7 @@
       * [Javaslat](javaslat.md)
       * [Indítványozás](inditvanyozas.md)
       * [Vita](vita.md)
+      * [Szavazás](szavazas.md)
 
 
 
