@@ -38,6 +38,10 @@
   * [Döntéshozatali kapacitás](donteshozatali-kapacitas.md)
     * [A döntések minősége](a-dontesek-minosege.md)
     * [A hatalmi visszacsatolási kör megtörése](a-hatalmi-visszacsatolasi-kor-megtorese.md)
-* [Erőforrások és pénzügyek](eroforrasok-es-penzugyek.md)
-* [Általános biztonság](altalanos-biztonsag.md)
+  * [Erőforrások és pénzügyek](eroforrasok-es-penzugyek.md)
+  * [Általános biztonság](altalanos-biztonsag.md)
+  * [Módosíthatóság](modosithatosag.md)
+  * [Felelősségrevonhatóság és átláthatóság](felelossegrevonhatosag-es-atlathatosag.md)
+
+
 
