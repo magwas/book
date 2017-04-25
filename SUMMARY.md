@@ -1,9 +1,9 @@
 # Summary
 
-* [Bevezetés](README.md)
+* [Bevezetés](README1.md)
   * [A probléma](README1.md)
   * [A megoldás](README2.md)
-* [A modell leírása](chapter1.md)
+* [A modell leírása](struktura.md)
   * [Struktúra](struktura.md)
    * [Csoportok](csoportok.md)
    * [Csomópontok, metacsoportok, szervezeti csomópontok](csomopontok.md)
@@ -13,7 +13,7 @@
    * [További hatalmi ágak](tovabbiagak.md)
    * [Választások](valasztasok.md)
    * [Értékek és hosszú távú stratégia](ertekek.md)
-  * [Jogszabályalkotási folyamat](jogszabalyalkotas.md)
+  * [Jogszabályalkotási folyamat](jogszabalyok.md)
    * [Jogszabályok](jogszabalyok.md)
    * [Döntések](dontesek.md)
    * [Döntési folyamat](dontesifolyamat.md)

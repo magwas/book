@@ -1,3 +1,5 @@
+## Jogszabályalkotási folyamat
+
 ### Jogszabályok
 
 Minden csomópontnak saját szabályai vannak, a szokásos hierarchiában: A magasabb szintű csomópontok jogszabályai kötelező érvénnyel bírnak az alacsonyabb szinteken hozott döntésekkel és szabályokkal szemben.

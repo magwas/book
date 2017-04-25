@@ -1,3 +1,4 @@
+# A modell leírása
 ## Struktúra
 
 Az alapstruktúra egy fa, amely ideális \(a \[Dunbar szám\]\([https://en.wikipedia.org/wiki/Dunbar's\_number\)hoz](https://en.wikipedia.org/wiki/Dunbar's_number%29hoz) közeli\) méretű csoportokat tartalmaz mint leveleket, és a csomópontjainak \(a "metacsoport"oknak\) a fokszáma is az ideális körüli.
