@@ -35,8 +35,5 @@
     * [Világbéke](vilagbeke.md)
 * [A modell megfeleltetése a vizsgálati kritériumoknak](a-modell-megfeleltetese-a-vizsgalati-kriteriumoknak.md)
   * [Alapértékek](a-modell-megfeleltetese-a-vizsgalati-kriteriumoknak.md)
-
-
-
-
+* [Döntéshozatali kapacitás](donteshozatali-kapacitas.md)
 
