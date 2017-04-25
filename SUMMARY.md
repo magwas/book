@@ -17,6 +17,9 @@
     * [Jogszabályok](jogszabalyok.md)
     * [Döntések](dontesek.md)
     * [Döntési folyamat](dontesifolyamat.md)
+      * [Javaslat](javaslat.md)
+      * [Indítványozás](inditvanyozas.md)
+      * [Vita](vita.md)
 
 
 
