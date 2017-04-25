@@ -28,8 +28,15 @@
   * [Implementációs útvonal](implementacios-utvonal.md)
     * [Az elindulási probléma](implementacios-utvonal.md)
     * [Az útvonal](az-utvonal.md)
-* [Kezdeti növekedés](kezdeti-novekedes.md)
-* [Helyi ügyek](helyi-ugyek.md)
-* [Helyi önkormányzat](helyi-onkormanyzat.md)
-* [Állami kormányzás](allami-kormanyzas.md)
+    * [Kezdeti növekedés](kezdeti-novekedes.md)
+    * [Helyi ügyek](helyi-ugyek.md)
+    * [Helyi önkormányzat](helyi-onkormanyzat.md)
+    * [Állami kormányzás](allami-kormanyzas.md)
+    * [Világbéke](vilagbeke.md)
+* [A modell megfeleltetése a vizsgálati kritériumoknak](a-modell-megfeleltetese-a-vizsgalati-kriteriumoknak.md)
+  * [Alapértékek](a-modell-megfeleltetese-a-vizsgalati-kriteriumoknak.md)
+
+
+
+
 
