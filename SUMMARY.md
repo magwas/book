@@ -30,4 +30,5 @@
     * [Az útvonal](az-utvonal.md)
 * [Kezdeti növekedés](kezdeti-novekedes.md)
 * [Helyi ügyek](helyi-ugyek.md)
+* [Helyi önkormányzat](helyi-onkormanyzat.md)
 
