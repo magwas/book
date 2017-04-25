@@ -37,4 +37,5 @@
   * [Alapértékek](a-modell-megfeleltetese-a-vizsgalati-kriteriumoknak.md)
 * [Döntéshozatali kapacitás](donteshozatali-kapacitas.md)
 * [A döntések minősége](a-dontesek-minosege.md)
+* [A hatalmi visszacsatolási kör megtörése](a-hatalmi-visszacsatolasi-kor-megtorese.md)
 
