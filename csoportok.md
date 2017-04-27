@@ -4,7 +4,7 @@ A struktúra alapvető építőköve a csoport. A jó - valódi emberi kapcsolat
 
 Egy egyén részt vehet több csoportban is, így követheti különböző érdeklődési köreit. Pl. valaki egy település polgára, érdekli a környezetvédelem, bélyegeket gyűjt, és szeret repülővel repülni, ezért négy olyan csoportnak a tagja, amelyek ezen érdekek mentén szerveződtek. Van egy limit arra, hogy egy egyén hány csoportban vehet részt, hogy csökkentsük az egyének lehetőségeit a strulktúra rombolására.Egy egyén bármikor megszüntetheti a tagságát egy csoportban, vagy kérheti felvételét egybe.
 
-Alapértelmezésben a csoprtba való felvétel automatikusan elfogadásra kerül, de lehetnek csoportok, amelyek csak alkalmas tagokat vesznek fel. Az alkalmassági kritérumok példái: a helyi önkormányzattal foglalkozó csoportok csak helyi polgárokat vesznek fel, a repülőklub tagjainak be kellfizetni a repülők üzemeltetési költségeit fedező tagdíjat. Ha valakinek az alkalmassága megszűnik, automatikusan megszűnik a csoport tagjává válni.
+Alapértelmezésben a csoportba való felvétel automatikusan elfogadásra kerül, de lehetnek csoportok, amelyek csak alkalmas tagokat vesznek fel. Az alkalmassági kritérumok példái: a helyi önkormányzattal foglalkozó csoportok csak helyi polgárokat vesznek fel, a repülőklub tagjainak be kellfizetni a repülők üzemeltetési költségeit fedező tagdíjat. Ha valakinek az alkalmassága megszűnik, automatikusan megszűnik a csoport tagjává válni.
 
 Létezik egy "alapértelmezett" \("default"\) csoport, amelynek azok a tagjai, akik még nem csatlakoztak egyetlen csoporthoz sem, vagy minden más csoportban megszűnt a tagságuk. Ez az a pont, ahol a rendszer használatát problémásnak találó emberek segítésére vonatkozó aktivitásokat koncentrálni lehet.
 
