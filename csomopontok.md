@@ -2,7 +2,7 @@
 
 A csomópont a modell egyik absztrakciója. A csoport egyfajta csomópont. A csoportok csoportja - a metacsoport - szintén egyfajta csomópont.
 
-A csomópont szót abban az értelemben használjuk, ahogyan a gráfelméletben szokás. Tehát a csomópontoknak lehet szülője és lehetnek gyermekei, egy részfát definiálnak, és a teljes struktúra is egy fa, pontosan egy gyökér csomóponttal. A "felfelé" irányt a gyökér csomópont irányába értjük.
+A csomópont szót abban az értelemben használjuk, ahogyan a gráfelméletben szokás. Tehát a csomópontoknak lehet egy szülője és lehetnek gyermekei, egy részfát definiálnak, és a teljes struktúra is egy fa, pontosan egy gyökér csomóponttal. A "felfelé" irányt a gyökér csomópont irányába értjük.
 
 A csomópontok megfeleltethetőek az emberek különböző szervezeteinek: helyi, országos vagy nemzetközi kormányzatoknak, kluboknak, mozgalmaknak, akár cégeknek is \(noha meglehetősen szoci dolog lenne ezt a formális struktúrában tenni\).
 
