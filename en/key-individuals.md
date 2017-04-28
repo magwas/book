@@ -6,7 +6,6 @@ The key goals in designing the role of key individuals and offices were the foll
 * Key posts should be filled in by individuals with high probability of having the necessary skills and expertise for the job
 * The motivation of the key individuals should primarily be towards the mission of the office
 
-  
 Therefore we propose a system, where:
 
 * Branches of power are separated. We propose to use at least legislative, executive, judicial and auditory branches. This adds the auditory branch to the classic trias politica, as procedural accountability is the way to ensure efficient operations throughout the organisation.
