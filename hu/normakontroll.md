@@ -7,5 +7,5 @@ A normakontrollt az igazságszolgáltató hatalmi ág végzi, és az eredmény a
 * a döntés semmissé nyilvánítása
 * annak kimondása, hogy egy jogalkotási igény elmulasztásra került
 
-Amennyiben egy jogalkotási igény elmulasztásra került, a csomópont választottképviselői kötelesek döntést kezdeményezni a jogszabály megalkotására. Amennyiben 2\*D idő alatt ez nem történik meg, új választások kerülnek kiírásra.
+Amennyiben egy jogalkotási igény elmulasztásra került, a csomópont választott képviselői kötelesek döntést kezdeményezni a jogszabály megalkotására. Amennyiben 2\*D idő alatt ez nem történik meg, új választások kerülnek kiírásra.
 
