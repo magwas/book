@@ -10,5 +10,9 @@ Decision preparation in groups is conducted directly, while in metagroups the el
 
 Vote is conducted with [Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) method, employing a dummy alternative “the choices below are unacceptable” in order to cover the whole decision space, and provide a way to signal the boundaries of acceptability.
 
-When voting for a committee, the [CIVS proportional representation ](http://civs.cs.cornell.edu/proportional.html)method is used to determine members. Every member of the subtree is entitled to one vote \(even if member of multiple groups\). In order to enable people to choose their level of their participation while ensuring good decisions, votes can be delegated in liquid democratic manner, but only to legislative or issue representatives.
+When voting for a committee, the [CIVS proportional representation ](http://civs.cs.cornell.edu/proportional.html)method is used to determine members.
+
+Every member of the subtree is entitled to one vote \(even if member of multiple groups\).
+
+In order to enable people to choose their level of their participation while ensuring good decisions, votes can be delegated in liquid democratic manner, but only to legislative or issue representatives.
 
