@@ -2,9 +2,9 @@
 
 A javaslat közzétételre kerül a csomópont hivatalos csatornáján, megjelölve azt a célcsomópontot, ahol az hatályos lesz.
 
-A célcsomópont lehet ugyanaz a csomópont, ahol a javaslatot beadták,vagy bármely afeletti csomópont.
+A célcsomópont lehet ugyanaz a csomópont, ahol a javaslatot beadták, vagy bármely afeletti csomópont.
 
-A csoportokban a csoporttagjai bármikor indítványozhatnak egy javaslatot.
+A csoportokban a csoport tagjai bármikor indítványozhatnak egy javaslatot.
 
 A metacsoportokban a javaslat indítványozásának két módja van:
 
