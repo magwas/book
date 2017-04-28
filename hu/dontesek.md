@@ -12,5 +12,7 @@ A csoportokban a döntéselőkészítés közvetlenül történik, míg a metacs
 
 A szavazás [Condorcet módszer](https://hu.wikipedia.org/wiki/Condorcet-módszer)rel történik, egy kitöltő, "a lenti alternatívák nem elfogadhatóak" alternatíva hozzáadásával, annak érdekében, hogy a teljes döntési teret lefedjük, és lehetőséget adjunk az elfogadhatóság  határainak jelzésére.
 
-Amikor egy bizottságra szavazunk, a [CIVS Proporcionális reprezentációs módszer](http://civs.cs.cornell.edu/proportional.html)ét alkalmazzuk a tagok meghatározására. Acsomóponthoz tartozó részfa minden tagja egy szavazattal bír, akkor is, ha több csoportnak tagja. annak érdekében, hogy az egyének meg tudják határozni a saját bevonódási szintjüket, és egyben biztosítsuk a jó döntéseket, a szavazatok likvid demokratikus módon delegálhatóak, de csak választott-  vagy ügyképviselőknek.
+Amikor egy bizottságra szavazunk, a [CIVS Proporcionális reprezentációs módszer](http://civs.cs.cornell.edu/proportional.html)ét alkalmazzuk a tagok meghatározására.
+
+A csomóponthoz tartozó részfa minden tagja egy szavazattal bír, akkor is, ha több csoportnak tagja. annak érdekében, hogy az egyének meg tudják határozni a saját bevonódási szintjüket, és egyben biztosítsuk a jó döntéseket, a szavazatok likvid demokratikus módon delegálhatóak, de csak választott-  vagy ügyképviselőknek.
 
