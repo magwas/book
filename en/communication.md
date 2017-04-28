@@ -12,7 +12,7 @@ Representatives are expected to have over the average communication and negotiat
 
 The approach to formal communication is that it is categorised based on the initiator and the properties of the issue at hand, and each individual can select which categories they choose to receive on which device. There is of course also a choice of what to actually overview. Categories could include
 
-* notifications about different phases of the decision making process in nodes (a notable example being decision making process initiation directly in a metagroup by an individual),
+* notifications about different phases of the decision making process in nodes \(a notable example being decision making process initiation directly in a metagroup by an individual\),
 
 * all or topic-specific official communication of nodes or representatives,
 
@@ -26,7 +26,9 @@ The approach to formal communication is that it is categorised based on the init
 
 * for representatives based on whether the individual is represented, and whether it actually delegates the representative
 
-    The above formal communication is augmented with the ability to comment every information in the system, including proposals, alternatives, financial transactions and documents. Comments are organised in threads and can only be deleted by the commenter, but can be up- and downvoted and flagged by different aspects (like offtopic, inadequate language, etc), and individuals can choose which comments to show and how, based on this information.
+The above formal communication is augmented with the ability to comment every information in the system, including proposals, alternatives, financial transactions and documents. Comments are organised in threads and can only be deleted by the commenter, but can be up- and downvoted and flagged by different aspects \(like offtopic, inadequate language, etc\), and individuals can choose which comments to show and how, based on this information.
 
-    All of the information in the system (down to individual comments) can be cross-referenced.
+All of the information in the system \(down to individual comments\) can be cross-referenced.
+
+
 
