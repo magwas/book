@@ -6,7 +6,7 @@ Egy \(lehetséges, hogy a legfontosabb\) alapvető problémája a politikának a
 * Ugyanez a lehetőség a kontrollra és az a tény, hogy az emberek folyamatosan részt vesznek a politikai döntéshozatalban, azt jelenti, hogy az embereknek összességében több képességük van megérteni a politikai kérdéseket, és a döntéseik hatását
 * A kulcsszereplők életpálya-modellje stabilitást ad a rendszernek
 * Az információáramlás rezisztenssé teszi a dezinformációval és propagandával szemben
-* A hatalmi ágak szétválasztásanehézzé teszi a kormányzat elfogását
+* A hatalmi ágak szétválasztása nehézzé teszi a kormányzat elfogását
 
 Kérjük ne értsék félre: a gazdasági különbségek egy szintje hasznos, mivel a legtöbb ember számára egy ösztönző a fejlődésre. Ennek a műnek az írói szeretik a gazdagság érzését. Mi csak nem szeretnénk egy rezonancia-katasztrófa közepén találni magunkat.
 
