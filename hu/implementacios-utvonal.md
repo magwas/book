@@ -8,5 +8,5 @@ Vegyük észre, hogy az első és második fázisban a struktúra csupán alacso
 * A jól irányzott külső segítség segíthet a szervezet mesterséges "beindításában"
 * Mivel az ideológiai ösztönző és a szociális kapcsolatok jó motivátorok, az emberek egy csoportja a "világmegváltás" mint közös cél mögé felsorakozva keresztüljuttathatja a szervezetet az első lépcsőfokokon. \( Ez egy bevallottan nagyon idealisztikus megközelítés, csak azért soroljuk fel opcióként, hogy naivitásunkat bemutassuk.\)
 
-A rendszer legnagyobb buktatója az, hogy összetett informatikai támogatásra van szüksége. A Közösségi Digitális Eszközök Alapítvány ezen célok mentén dolgozik, de a jelenlegi támogatottsági szint mellett körülbelülegy évtizedre van szüksége ennek felépítéséhez.
+A rendszer legnagyobb buktatója az, hogy összetett informatikai támogatásra van szüksége. A Közösségi Digitális Eszközök Alapítvány ezen célok mentén dolgozik, de a jelenlegi támogatottsági szint mellett körülbelül egy évtizedre van szüksége ennek felépítéséhez.
 
