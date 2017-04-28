@@ -12,7 +12,9 @@ Goals:
 
 Temporary measures:
 
-*All of the income is allocated as personal income of the officials, starting with the executive. The cap for this rule is the income equalling the normal rules for 900 members.
+* All of the income is allocated as personal income of the officials, starting with the executive. The cap for this rule is the income equalling the normal rules for 900 members.
 
 * The membership fee is 1% of the mean salary for the country the member lives in.
+
+
 
