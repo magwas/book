@@ -14,7 +14,7 @@ Ha egy csoport kettéválik, az így keletkező csoportok mind az eredeti szül�
 
 A "szervezeti csomópont" egy azonos alkalmassági kritériumokkal rendelkező részfa legfelső csomópontja. A gyökér csomópont egy szervezeti csomópont.
 
-A csomópontok dönthetnek úgy \(a lentebb leírt döntéshozatali mechanizmusok segítségével\), hogy mozognak a struktúrán belül. annak érdekében, hogy a fa kiegyensúlyozott maradjon, a mozgások olyan módonkorlátozottak, hogy egy csoport nem mozdulhat közelebbre a szervezeti csomópontjához, mint a mozgás előtt ahhoz legközelebb lévő csoport.
+A csomópontok dönthetnek úgy \(a lentebb leírt döntéshozatali mechanizmusok segítségével\), hogy mozognak a struktúrán belül. Annak érdekében, hogy a fa kiegyensúlyozott maradjon, a mozgások olyan módonkorlátozottak, hogy egy csoport nem mozdulhat közelebbre a szervezeti csomópontjához, mint a mozgás előtt ahhoz legközelebb lévő csoport.
 
 Egy csoport automatikusan örökli a szülő metacsoporttól az alkalmassági kritériumot, és minden rá vonatkozó olyan szabályt, amely nem lett helyileg felülírva.
 
