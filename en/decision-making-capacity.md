@@ -10,7 +10,7 @@ If shorter decision times are needed, it can be catered for by “emergency” d
 
 | level | Worst decision time \(week\) | Min participants | Max participants |
 | :--- | :--- | :--- | :--- |
-| 0 \(csoport\) | 2 | 30 | 60 |
+| 0 \(group\) | 2 | 30 | 60 |
 | 1 | 8 | 900 | 3.600 |
 | 2 | 20 | 27.000 | 216.000 |
 | 3 | 44 | 810.000 | 12.960.000 |
