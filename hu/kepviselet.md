@@ -8,7 +8,7 @@ A döntéshozatali folyamat tulajdonsága, hogy minden javaslatnak van egy "ügy
 
 A következő személyek választhatóak képviselőként:
 
-* egy szinttel lentebbi csomópont v'lasztott képviselői
+* egy szinttel lentebbi csomópont választott képviselői
 * olyan személyek, akik az adott csomópontban már voltak választott- vagy ügyképviselők
 
 
