@@ -6,5 +6,5 @@ Global challenges are hard to solve, because the decision-making mechanisms are 
 
 This leads to bad decision making and individuals in key positions motivated to screw up large quantities of other people. In this structure there are positive feedback loops between political and economic power. Income inequality is but a relatively benign sign of this. Positive feedback loops are leading to resonance catastrophe which destroys the structure which is hosting the process.
 
-There are a couple of theoretical advances in the last two millennia, which were never seen as relevant, practicable or desirable by those who were setting up today’s decision-making structures and procedures. We have just put those theoretical advances together, analyzed the problem, and came up with a solution which hopes to answer all of the challenges identified.
+There are a couple of theoretical advances in the last two millennia, which were not seen as relevant, practicable or desirable by those who were setting up today’s decision-making structures and procedures. We have just put those theoretical advances together, analyzed the problem, and came up with a solution which hopes to answer all of the challenges identified.
 
