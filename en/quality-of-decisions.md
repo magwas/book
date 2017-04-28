@@ -12,5 +12,5 @@ Another question is whether people do decide rationally. [There are well-known, 
 
 Research found that [process accountability also leads to better communication and decisions](http://www.sciencedirect.com/science/article/pii/S0022103106000898). Our model makes the whole decision process and all of its players fully transparent and accountable.
 
-We propose that processes should be heavily supported by IT, because there is simply no other way to make decision making in large group effective. However the size of groups acting as the fundamental building blocks of the system makes it possible to have a tight offline bind between participants. This mitigates the negative effects of computer mediation in group decision making.
+We propose that processes should be heavily supported by IT, because there is simply no other way to make decision making in large group effective. However the size of groups acting as the fundamental building blocks of the system makes it possible to have a tight offline bind between participants. This mitigates the [negative effects of computer mediation in group decision making](http://www.sciencedirect.com/science/article/pii/S0749597801929619).
 
