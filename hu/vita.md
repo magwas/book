@@ -2,7 +2,7 @@
 
 Egy javaslat vitainditó állapotban van legalább Dm és legfeljebb DM napig \(pl. 14 és 28\).
 
-A csomópont képviselői kérhetik a vitaindítási periódus hosszabbítását, és annak befejezését.
+A csomópont képviselői kérhetik a vitaindítási periódus hosszabbítását, és annak befejezését a fenti keretek között.
 
 Ez az időszak arra van, hogy az eredeti javaslathoz alternatívákat lehessen benyújtani a csomópont részfájában.
 
@@ -14,6 +14,4 @@ A vitidőszakban a választott és ügybéli képviselők, valamint a csoport me
 * Az erősségek, gyengeségek, lehetőségek és kockázatok felsorolása az alternatíva tekintetében
 
 A dokumentumnak a konszenzust kell tartalmaznia. Ahol nem lehetséges konszenzust elérni, a kisebbségi véleményeket be kell mutatni.
-
-
 
