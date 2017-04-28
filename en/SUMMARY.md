@@ -4,7 +4,7 @@
   * [The problem](README.md)
   * [The solution](README2.md)
 * [Description of the model](structure.md)
-  * [Structure](struktura.md)
+  * [Structure](structure.md)
     * [Groups](groups.md)
     * [Nodes, metagroups and organizing nodes](nodes.md)
     * [informal structure, executive organisations](informal.md)
