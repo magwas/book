@@ -4,7 +4,7 @@ Az átláthatóság úgy van kezelve, hogy minden leszállítandó és folyamat 
 
 A felelősségrevonhatóság kétféleképpen van kezelve.
 
-A folyamati felelősségrevonhatóság részben informális módon azátláthatósági mechanizmusokon keresztül, és részben a kontroll hatalmi ágnak adott jogosítványokon keresztül, amely aktívan felügyeli azt.
+A folyamati felelősségrevonhatóság részben informális módon az átláthatósági mechanizmusokon keresztül, és részben a kontroll hatalmi ágnak adott jogosítványokon keresztül, amely aktívan felügyeli azt.
 
-A stratégiai és motivációs felelősségrevonhatóságot az biztosítja, hogy minden hatalmiág legfelsőbb hivatalnoka közvetlenül választtatik.
+A stratégiai és motivációs felelősségrevonhatóságot az biztosítja, hogy minden hatalmi ág legfelsőbb hivatalnoka közvetlenül választtatik.
 
