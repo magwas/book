@@ -43,6 +43,5 @@
   * [Általános biztonság](altalanos-biztonsag.md)
   * [Módosíthatóság](modosithatosag.md)
   * [Felelősségrevonhatóság és átláthatóság](felelossegrevonhatosag-es-atlathatosag.md)
-
-
+* [Hatékonyság](hatekonysag.md)
 
