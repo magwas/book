@@ -4,15 +4,13 @@ A cél a növekedési potenciál fenntartása, és a végrehajtási gyakorlat n�
 
 Célok:
 
-1. Momentum: háromhelyi ügy megnyerése
+1. Momentum: három helyi ügy megnyerése
 2. Szabályok: A szabályozás kipróbálásra kerül, és módosíttatik a valós harci tapasztalat alapján. A szabályok formálisan modellezhetőek és önellentmondásmentesek.
 3. IT: Az alapvető folyamatok olyan szintű tmogatása, hogy az emberek többsége képes legyen használni
 
 Ideiglenes intézkedések:
 
 1. A tagdíj a tag lakóhelyén mért átlagjövedelem 1%-a
-
-
 
 
 
