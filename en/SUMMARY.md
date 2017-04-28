@@ -7,7 +7,7 @@
   * [Structure](structure.md)
     * [Groups](groups.md)
     * [Nodes, metagroups and organizing nodes](nodes.md)
-    * [informal structure, executive organisations](informal.md)
+    * [Informal structure, executive organisations](informal.md)
   * [Key individuals and offices](key-individuals.md)
     * [Representation \(legislative branch\)](representation.md)
     * [Other branches](other-branches.md)
@@ -44,6 +44,4 @@
   * [General security](security.md)
   * [Flexibility](flexibility.md)
   * [Accountability and transparency](accountability.md)
-
-
 
