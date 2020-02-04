@@ -1,9 +1,9 @@
 # Summary
 
-* [Abstract](README.html)
-  * [The problem](README.html)
+* Abstract
+  * [The problem](abstract.html)
   * [The solution](README2.html)
-* [Description of the model](structure.html)
+* Description of the model
   * [Structure](structure.html)
     * [Groups](groups.html)
     * [Nodes, metagroups and organizing nodes](nodes.html)
@@ -25,7 +25,7 @@
     * [Norm control](norm-control.html)
   * [Communication](communication.html)
   * [Finance](finance.html)
-  * [Implementation path](implementation-path.html)
+  * Implementation path
     * [The bootstrapping problem](implementation-path.html)
     * [The roadmap](roadmap.html)
     * [Initial growth](initial-growth.html)
@@ -33,7 +33,7 @@
     * [Municipal government](municipal-government.html)
     * [State government](state-government.html)
     * [World peace](world-peace.html)
-* [How the model meets the assessment criteria?](assessment.html)
+* How the model meets the assessment criteria?
   * [Core values](assessment.html)
   * [Decision-making-capacity](decision-making-capacity.html)
     * [Speed of decisions](decision-making-capacity.html)
