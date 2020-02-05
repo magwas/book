@@ -3,6 +3,7 @@
 * Abstract
   * [The problem](abstract.html)
   * [The solution](README2.html)
+* [The problem and its theoretical background](analysis.md)
 * Description of the model
   * [Structure](structure.html)
     * [Groups](groups.html)
