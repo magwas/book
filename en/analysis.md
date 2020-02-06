@@ -170,7 +170,10 @@ Another design consideration related to voting is that in some cases some indivi
 [a game-theory based proof of Duverger's law](https://resolver.caltech.edu/CaltechAUTHORS:20170905-145247491)
 [economics of hatred](https://www.researchgate.net/profile/Partha_Gangopadhyay3/publication/228305422_Economics_of_Rivalry_Conflict_and_Cooperation/links/575536de08ae155a87b78b42.pdf)
 [the political economy of hatred](https://www.nber.org/papers/w9171.pdf)
-
+[Campaign civility under preferential and plurality voting](https://www.sciencedirect.com/science/article/pii/S0261379416000299)
+[Centripetalism and Electoral Moderation inEstablished Democracies](https://www.researchgate.net/profile/Benjamin_Reilly/publication/325374178_Centripetalism_and_Electoral_Moderation_in_Established_Democracies/links/5b1f216d458515270fc478d2/Centripetalism-and-Electoral-Moderation-in-Established-Democracies.pdf)
+[Divergence in the Spatial Stochastic Model of Voting](https://ftp.itam.mx/pub/academico/inves/seminars/schofield.pdf)
+[An Overview Across the New Political Economy Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.499.2147&rep=rep1&type=pdf)
 ## The whole decision making process
 
 Voting is but a step of a decision making process. First of all, there should be some ways to actually come up with the alternatives on the ballot. 
