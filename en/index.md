@@ -24,6 +24,7 @@
       * [Voting](voting.html)
       * [Amendments, compromises, shortcuts](amendments.html)
     * [Norm control](norm-control.html)
+  * [Conflict resolution](conflict-resolution.md)
   * [Communication](communication.html)
   * [Finance](finance.html)
   * Implementation path
